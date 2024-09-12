@@ -53,7 +53,6 @@
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-%234285F4.svg?style=flat&logo=tensorflow&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samith01&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samith01&theme=darcula&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samith01&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
