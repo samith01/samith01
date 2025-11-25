@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub, I'm Samith! 👋</h1>
 <p align="center">
-  A passionate AI Enthusiast
+  A passionate Entrepreneur
 </p>
 
 ## 🌐 Socials:
